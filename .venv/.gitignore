@@ -1,0 +1,20 @@
+# Virtual environments (local packages)
+.venv/
+venv/
+ENV/
+
+# Secrets and environment variables
+.env
+.env.local
+.env.*
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs and OS artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
